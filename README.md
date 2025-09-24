@@ -14,7 +14,7 @@ Este é o meu portfólio pessoal, desenvolvido em Vue 3 e Tailwind, para apresen
 
 ## 👉 Deploy
 
-- [https://vercel.com/lunes-projects/portifolio-murilo](https://vercel.com/lunes-projects/portifolio-murilo)
+- [https://portifolio-murilo-psi.vercel.app/](https://portifolio-murilo-psi.vercel.app/)
 
 ---
 
